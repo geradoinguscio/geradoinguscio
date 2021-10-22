@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geradoinguscio
 - 👀 I’m interested in FPV an Stuff
 - 🌱 I’m currently learning Betaflight and all the Things around that.
-- 💞️ I´m German and my Enlisch isn`t that good  :-)
+- 💞️ I´m German and my English isn`t that good  :-)
 - 📫 How to reach me: dirk.neugebauer@t-online.de
 
 Cheers  :-)
